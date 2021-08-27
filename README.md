@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and MEAN stack**
 -  I’m currently working with **Angular Js**
 
 - 👨‍💻 All of my projects are available at [https://vigorous-easley-35e858.netlify.app/](https://vigorous-easley-35e858.netlify.app/)
